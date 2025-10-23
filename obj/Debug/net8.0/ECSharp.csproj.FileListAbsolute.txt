@@ -1,0 +1,14 @@
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.AssemblyInfoInputs.cache
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.AssemblyInfo.cs
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.csproj.CoreCompileInputs.cache
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\bin\Debug\net8.0\ECSharp.exe
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\bin\Debug\net8.0\ECSharp.deps.json
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\bin\Debug\net8.0\ECSharp.runtimeconfig.json
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\bin\Debug\net8.0\ECSharp.dll
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\bin\Debug\net8.0\ECSharp.pdb
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.dll
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\refint\ECSharp.dll
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.pdb
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ECSharp.genruntimeconfig.cache
+C:\Users\Félix-Olivier Dumas\Documents\Programmation\ECSharp\obj\Debug\net8.0\ref\ECSharp.dll
